@@ -11,3 +11,4 @@ print ('Hello\n')
 # redirection a better way
 textfile = open('text.dat', 'a')
 print >> textfile,'Hello'
+print ('goodbye!')
